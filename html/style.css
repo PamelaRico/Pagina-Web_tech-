@@ -1,0 +1,32 @@
+/*estructura
+    selector{
+        propiedad:valor;
+        propiedad:valor;
+        */
+body {
+    background-color:rgb(229, 236, 243);
+    color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:justify;
+}
+h1{
+    color:rgb(47, 155, 56);
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+
+a{
+    color:rgb(23, 109, 111);
+    
+}
+.cactus{
+    width: 100px;
+    
+}
+
+
+
+
